@@ -20,10 +20,11 @@ To help the reviewer examine your work, please save examples of the output from 
 The `challenge_video.mp4` video is an extra (and optional) challenge for you if you want to test your pipeline under somewhat trickier conditions.  The `harder_challenge.mp4` video is another optional challenge and is brutal!
 
 ## project files:
-please use jupyter notebook to load Find_Lane_Line-V3.ipynb and run
-not completed, waiting for furthur update...
+please use jupyter notebook to load Find_Lane_Line-V7.ipynb to run pipeline. 
+output images in folder "./output_images".
+output videos in folder "./output_videos"
 
 # writeup file:
-please read writeup report.pdf
-not finalized, still working on some issues such as lost x positions when the s-bend road change rapidly.
+please read Advanced_Lane_Finding_writeup.md file
+I illustrate the pipeline process and discuss the issues, further improvement or discussion...
 
